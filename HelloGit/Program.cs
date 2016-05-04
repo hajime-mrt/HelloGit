@@ -9,6 +9,7 @@ namespace HelloGit
     {
         static void Main(string[] args)
         {
+            Console.Out.WriteLine("Hello");
         }
     }
 }
